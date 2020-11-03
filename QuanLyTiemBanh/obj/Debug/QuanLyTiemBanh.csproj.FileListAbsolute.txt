@@ -1,0 +1,34 @@
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.exe.config
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.exe
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.pdb
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csprojAssemblyReference.cache
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.fLogin.resources
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.Properties.Resources.resources
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.GenerateResource.cache
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.CoreCompileInputs.cache
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.exe
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.pdb
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.fAdminManager.resources
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.fStaffManager.resources
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\EntityFramework.dll
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\EntityFramework.xml
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khanh\Desktop\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.CopyComplete
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.exe.config
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.exe
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.pdb
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\EntityFramework.dll
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\EntityFramework.xml
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csprojAssemblyReference.cache
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.fAdminManager.resources
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.fLogin.resources
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.fStaffManager.resources
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.Properties.Resources.resources
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.GenerateResource.cache
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.CoreCompileInputs.cache
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.CopyComplete
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.exe
+C:\Users\LE KHANH DUY\Downloads\Quản Lý Tiệm Bánh\Quản Lý Tiệm Bánh\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.pdb
